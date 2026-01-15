@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "40347477880",
+    "project_id": "sitesmart-d2c53",
+    "storage_bucket": "sitesmart-d2c53.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40347477880:android:4a2e59173a0cf233bb4a8d",
+        "android_client_info": {
+          "package_name": "com.example.sitesmart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCLSfhZBmxqbQz62Ix1_q3RT_cDSW_a0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
