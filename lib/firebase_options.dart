@@ -85,4 +85,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'sitesmart-d2c53.firebasestorage.app',
     measurementId: 'G-L31CEHWS7R',
   );
+
 }
